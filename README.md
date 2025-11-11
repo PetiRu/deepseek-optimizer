@@ -32,3 +32,4 @@
 git clone https://github.com/your-username/deepseek-optimizer.git
 cd deepseek-optimizer
 pip install -r requirements.txt
+
